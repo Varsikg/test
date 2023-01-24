@@ -1,0 +1,21 @@
+1)Write a python program to find the longest word of txt file.
+
+2)Write a Python program to count the frequency of words in a txt file.
+
+3) Write a Python program to read a random line from a file.
+
+4)You have two list convert it in dictionary and add
+in (mydict.txt) and show result:
+for example: input :
+first = [‘Ani’, ‘Jessy’, ‘Ben’]
+second = [1,2,3]
+my_dict = {1 : “Ani” , 2: “Jessy”, 3: “Ben”}
+
+
+5) Write a Python program to convert Python object to JSON data.
+
+
+6)Write a Python program to convert JSON data to Python object. 
+
+
+
